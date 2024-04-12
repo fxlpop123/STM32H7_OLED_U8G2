@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp.h": "c",
+        "bsp_key.h": "c",
+        "bsp_led.h": "c",
+        "bsp_fmc_oled.h": "c"
+    }
+}
